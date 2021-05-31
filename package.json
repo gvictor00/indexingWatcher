@@ -1,0 +1,17 @@
+{
+  "name": "indexingwatcher",
+  "version": "1.0.0",
+  "description": "indexing dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mssql": "^7.1.0",
+    "tedious": "^11.0.8"
+  }
+}
